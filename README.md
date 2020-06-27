@@ -6,7 +6,7 @@ A new Flutter application.
 
 This project is a starting point for a Basci flutter UI application.
 
-https://postimg.cc/jWdQscW6
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 A few resources to get you started if this is your first Flutter project:
 
